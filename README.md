@@ -2,7 +2,7 @@
 [![discord](https://img.shields.io/discord/758059413700345988?color=%235865F2&label=discord&logo=discord&logoColor=white&style=flat)](https://discord.gg/skWTwTD) 
 
 # MainsailOS
-
+  
 ![Mainsail Logo](https://github.com/meteyou/mainsail/raw/master/docs/assets/img/logo.png?raw=true)
 
 A [Raspberry Pi OS](https://www.raspberrypi.org/software/) based distribution for 3d Printers. It includes everything to get started with Klipper Fimware and Mainsail.
